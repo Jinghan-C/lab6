@@ -50,8 +50,6 @@ function projectCallBack(result){
    
 	$("#"+idNum + " .details").html(projectHTML);
 
-	console.log(idNum);
-
 }
 
 
